@@ -3,7 +3,8 @@ title: "Change Management Done Right"
 datePublished: Tue Jun 24 2025 04:00:38 GMT+0000 (Coordinated Universal Time)
 cuid: cmc9zzjma000302jf6h8y0yy4
 slug: change-management-done-right
-tags: change-management
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/OXmym9cuaEY/upload/76de42101796e8067c0e869ff1fdb798.jpeg
+tags: compliance, governance, risk-management, change-management, change-management-process
 
 ---
 
