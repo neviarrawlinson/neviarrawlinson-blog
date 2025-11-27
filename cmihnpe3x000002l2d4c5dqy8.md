@@ -16,7 +16,7 @@ This article walks you through how to use Jira Automation to track, escalate, an
 
 ---
 
-**Why Automate Compliance Tracking?**
+### **Why Automate Compliance Tracking?**
 
 Compliance gaps are often missed because:
 
@@ -40,7 +40,7 @@ With Jira Automation, you can:
 
 ---
 
-**What You’ll Need**
+### **What You’ll Need**
 
 To follow along, you’ll need:
 
@@ -53,7 +53,7 @@ To follow along, you’ll need:
 
 ---
 
-**Step 1: Define What a Violation Looks Like**
+### **Step 1: Define What a Violation Looks Like**
 
 Start by identifying the types of compliance violations you want to track. Examples include:
 
@@ -70,7 +70,7 @@ Each of these should map to a Jira issue type, custom field, or label.
 
 ---
 
-**Step 2: Create a Custom Field for Violation Type**
+### **Step 2: Create a Custom Field for Violation Type**
 
 Go to Jira Settings &gt; Issues &gt; Custom Fields, and create a dropdown field like:
 
@@ -90,7 +90,7 @@ This helps categorize violations for automation and reporting.
 
 ---
 
-**Step 3: Build the Automation Rule**
+### **Step 3: Build the Automation Rule**
 
 Go to your project, then:  
 Project Settings &gt; Automation &gt; Create Rule
@@ -129,7 +129,7 @@ then:
 
 ---
 
-**Step 4: Escalate Overdue Violations**
+### **Step 4: Escalate Overdue Violations**
 
 Add another rule to check for overdue issues.
 
@@ -158,7 +158,7 @@ Add another rule to check for overdue issues.
 
 ---
 
-**Step 5: Build a Compliance Dashboard**
+### **Step 5: Build a Compliance Dashboard**
 
 Create filters using JQL:
 
@@ -179,7 +179,7 @@ Dashboards help both GRC teams and engineering leaders stay informed.
 
 ---
 
-**Bonus: Connect to Other Tools**
+### **Bonus: Connect to Other Tools**
 
 * Use Slack notifications via webhooks
     
@@ -200,7 +200,6 @@ If you're managing risk, don't just document it. Automate it.
 
 ---
 
-**Have you built a compliance tracker in Jira?**
+### **Have you built a compliance tracker in Jira?**
 
-  
 Share your automation tips or pain points in the comments.
